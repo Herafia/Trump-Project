@@ -1,0 +1,76 @@
+body {
+  background-color: #0F1338;
+}
+
+#banner {
+  height: 25vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  background-color: #0F1338;
+}
+
+#banner h1{
+  font-family:'Roboto Slab', serif;
+  font-size: 4.5em;
+  color: #FFB801;
+  align-self: center;
+  text-shadow:#0F1338 2.5px 2.5px 0,
+  #FFFFFF 5px 5px 0,
+  #FFB801 7.5px 7.5px 0,
+  #0F1338 10px 10px 10px;color:#ffcc00;
+
+}
+
+nav{
+  border-bottom: 2.5px solid #FFB801;
+  border-top: 2.5px solid #FFB801;
+}
+
+nav img{
+  height:7.5vh;
+  width: auto;
+}
+
+#sheet{
+  margin-top: 2.5vh;
+  text-align: center;
+  width: 90%;
+  border: 2.5px solid #FFB801;
+}
+
+#trumpPortrait {
+  width: 100%;
+  height: auto;
+  margin-top: 2.5vh;
+  margin-bottom: 2.5vh;
+}
+
+#divFooter .modal-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+#divFooter {
+  display: flex;
+  justify-content: center;
+  background-color: #F9FFEB;
+  border-top: 2.5px solid #FFB801;
+}
+
+.socialImg {
+  margin: 2vh;
+  height: 5.5vh;
+  width: auto;
+  background-color:  #0F1338;
+  border: 2.5px solid #0F1338;
+  border-radius: 7.5px;
+}
+
+#socialImg1 {
+  margin: 2vh;
+  height: 5.5vh;
+  width: auto;
+  background-color:  #0F1338;
+  border-radius: 7.5px;
+}
